@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss version='2.0' xmlns:atom='http://www.w3.org/2005/Atom'>
+<channel>
+<atom:link href='http://kirank.in/' rel='self' type='application/rss+xml'/>
+<title>
+Positive Trail
+</title>
+<link>
+http://kirank.in/
+</link>
+<description>
+Explorations in Clojure and Data science
+</description>
+<lastBuildDate>
+Tue, 19 Jul 2016 23:45:01 +0800
+</lastBuildDate>
+<generator>
+clj-rss
+</generator>
+<item>
+<guid>
+http://kirank.in/posts-output/2016-01-06-notebook/
+</guid>
+<link>
+http://kirank.in/posts-output/2016-01-06-notebook/
+</link>
+<title>
+Enlive Tutorial
+</title>
+<description>
+&lt;h4&gt;&lt;a name=&quot;html&amp;#95;templating&amp;#95;using&amp;#95;enlive&quot;&gt;&lt;/a&gt;Html Templating using Enlive&lt;/h4&gt;&lt;p&gt;This is a tutorial for Enlive, an HTML templating library written in Clojure.&lt;/p&gt;&lt;p&gt;Using Enlive, we can have a pure HTML template created by a UI designer, and have a Clojure developer add the dynamic content without having to mix code and html, like other template systems (e.g. JSP, Velocity etc)&lt;/p&gt;
+</description>
+<enclosure>
+
+</enclosure>
+<pubDate>
+Wed, 06 Jan 2016 00:00:00 +0800
+</pubDate>
+</item>
+<item>
+<guid>
+http://kirank.in/posts-output/2015-12-09-custexp/
+</guid>
+<link>
+http://kirank.in/posts-output/2015-12-09-custexp/
+</link>
+<title>
+Value of text mining for Customer Experience data
+</title>
+<description>
+&lt;h4&gt;&lt;a name=&quot;customer&amp;#95;experience&amp;#95;analytics&quot;&gt;&lt;/a&gt;Customer Experience analytics&lt;/h4&gt;&lt;p&gt;Customer experience data such as forum posts, blog post, product reviews provide a vital feedback loop for organizations trying to understand how their customer rate their products.&lt;/p&gt;&lt;p&gt;In our experience at Bridgei2i, we discuss the feasibility of text mining customer experience data to provide insights.&lt;/p&gt;&lt;p&gt;&lt;iframe src=&quot;http://www.slideshare.net/KiranKarkera3/slideshelf&quot; width=&quot;615px&quot; height=&quot;470px&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;border:none;&quot; allowfullscreen webkitallowfullscreen mozallowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+</description>
+<enclosure>
+
+</enclosure>
+<pubDate>
+Wed, 09 Dec 2015 00:00:00 +0800
+</pubDate>
+</item>
+<item>
+<guid>
+http://kirank.in/posts-output/2015-06-01-word2vec/
+</guid>
+<link>
+http://kirank.in/posts-output/2015-06-01-word2vec/
+</link>
+<title>
+Calling Word2vec from Clojure 
+</title>
+<description>
+&lt;h4&gt;&lt;a name=&quot;word2vec&amp;#95;for&amp;#95;better&amp;#95;feature&amp;#95;vectors&amp;#95;from&amp;#95;text&quot;&gt;&lt;/a&gt;Word2vec for better feature vectors from text&lt;/h4&gt;&lt;p&gt;Linking to a introductory tutorial on using Word2vec from Clojure, using a wrapper that I wrote. &lt;/p&gt;&lt;p&gt;Here's &lt;a href='http://bridgei2i.github.io/clojure/word2vec/2015/06/04/word2vec.html'&gt;the link to the article on the Bridgei2i Blog&lt;/a&gt;.&lt;/p&gt;
+</description>
+<enclosure>
+
+</enclosure>
+<pubDate>
+Mon, 01 Jun 2015 00:00:00 +0800
+</pubDate>
+</item>
+</channel>
+</rss>
