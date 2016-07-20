@@ -12,17 +12,17 @@ http://kirank.in/
 Explorations in Clojure and Data science
 </description>
 <lastBuildDate>
-Wed, 20 Jul 2016 07:57:46 +0800
+Wed, 20 Jul 2016 08:18:12 +0800
 </lastBuildDate>
 <generator>
 clj-rss
 </generator>
 <item>
 <guid>
-http://kirank.in/positive-trail/posts-output/2016-01-06-notebook/
+http://kirank.in/posts-output/2016-01-06-notebook/
 </guid>
 <link>
-http://kirank.in/positive-trail/posts-output/2016-01-06-notebook/
+http://kirank.in/posts-output/2016-01-06-notebook/
 </link>
 <title>
 Enlive Tutorial
@@ -39,10 +39,10 @@ Wed, 06 Jan 2016 00:00:00 +0800
 </item>
 <item>
 <guid>
-http://kirank.in/positive-trail/posts-output/2015-12-09-custexp/
+http://kirank.in/posts-output/2015-12-09-custexp/
 </guid>
 <link>
-http://kirank.in/positive-trail/posts-output/2015-12-09-custexp/
+http://kirank.in/posts-output/2015-12-09-custexp/
 </link>
 <title>
 Value of text mining for Customer Experience data
@@ -59,10 +59,10 @@ Wed, 09 Dec 2015 00:00:00 +0800
 </item>
 <item>
 <guid>
-http://kirank.in/positive-trail/posts-output/2015-06-01-word2vec/
+http://kirank.in/posts-output/2015-06-01-word2vec/
 </guid>
 <link>
-http://kirank.in/positive-trail/posts-output/2015-06-01-word2vec/
+http://kirank.in/posts-output/2015-06-01-word2vec/
 </link>
 <title>
 Calling Word2vec from Clojure 
